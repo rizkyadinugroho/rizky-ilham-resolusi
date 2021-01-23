@@ -5,3 +5,4 @@
 - Menjadi backend Developer
 - Menguasai PHP
 - Menguasai Phyton
+- Menguasai native.js
